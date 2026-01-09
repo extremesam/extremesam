@@ -1,20 +1,25 @@
 # 🌍 GIS Analyst | Geospatial Developer  
 
 Hey there! 👋  
-I'm **Samson**, a **GIS Analyst** passionate about transforming spatial data into real-world insights.  
+I'm **Samson**, a **GIS Analyst** transforming spatial data into decision-ready insights.
 My work blends **geospatial analysis**, **remote sensing**, and **modern web technologies** — crafting tools and dashboards that make data both *beautiful* and *actionable*.
 
 ---
 
 ## 🛰️ About Me  
 
-I thrive where **maps meet code** — combining GIS expertise with software development to build smarter geospatial applications.  
+I work at the intersection of **maps and code** — combining GIS expertise with software development to build smarter geospatial applications.  
 
 **Focus Areas:**  
 - 🌐 GIS Analysis & Remote Sensing  
 - 🗺️ Spatial Data Visualization  
 - 🧭 Web Mapping (Leaflet, CesiumJS, OpenLayers)  
-- ☁️ Cloud-Optimized GeoTIFFs (COGs), Raster & Vector Data  
+- ☁️ Cloud-Optimized GeoTIFFs (COGs), Raster & Vector Data
+
+**Data Types:**  
+- Vector & Raster Data
+- Satellite Imagery (Sentinel, Landsat)
+- Spatial Analysis & Modeling
 
 ---
 
