@@ -12,13 +12,27 @@ I specialize in transforming complex spatial and non-spatial datasets into decis
 
 ## 🏆 Certifications & Badges
 
+<p align="center">
+  <a href="https://www.credly.com/badges/6b858995-c52b-4f05-92ae-e020c56a50ea/public_url">
+    <img src="https://images.credly.com/images/49ed2919-44e1-4051-bcdd-9f6670b6f1f4/blob" width="180" alt="IBM Data Classification Badge"/>
+  </a>
+</p>
+
 ### IBM Data Classification
 
-<a href="YOUR_CREDLY_BADGE_URL">
-    <img src="YOUR_BADGE_IMAGE_URL" width="180">
-</a>
+**Issued by IBM**
 
-**Issued by IBM via Credly**
+This credential validates foundational knowledge in:
+
+* Data Classification
+* Data Governance
+* Data Security
+* Information Management
+* Data Protection
+
+🔗 **Verify Credential:**
+https://www.credly.com/badges/6b858995-c52b-4f05-92ae-e020c56a50ea/public_url
+
 
 Validated Skills:
 
