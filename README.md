@@ -22,6 +22,7 @@ I specialize in transforming complex spatial and non-spatial datasets into decis
 ✅ Power BI Dashboard Developer
 
 ✅ Spatial Database & Geospatial Systems Engineer
+
 ---
 
 ## 🏆 Certifications & Badges
