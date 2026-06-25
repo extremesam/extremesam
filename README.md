@@ -224,7 +224,7 @@ I'm open to opportunities in:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samson%20Adeyomoye-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/samson-pfg)
 
-[![Twitter](https://img.shields.io/badge/Twitter-@PFG__Samson-1DA1F2?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/PFG_Samson)
+[![Twitter](https://img.shields.io/badge/Twitter-@xtremexamxong-1DA1F2?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/xtremexamxong)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-samson--adeyomoye.vercel.app-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://samson-adeyomoye.vercel.app/)
 
