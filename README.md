@@ -29,11 +29,11 @@ I specialize in transforming complex spatial and non-spatial datasets into decis
 
 <p align="center">
   <a href="https://www.credly.com/badges/6b858995-c52b-4f05-92ae-e020c56a50ea/public_url">
-    <img src="https://images.credly.com/images/49ed2919-44e1-4051-bcdd-9f6670b6f1f4/blob" width="140" alt="IBM Data Classification Badge"/>
+    <img src="https://images.credly.com/images/49ed2919-44e1-4051-bcdd-9f6670b6f1f4/blob" width="130" alt="Data Classification Badge"/>
   </a>
 
   <a href="https://www.credly.com/badges/21eeca31-0384-41f5-93f7-98e56f87dd77/public_url">
-    <img src="https://images.credly.com/images/placeholder.png" width="140" alt="IBM Certification Badge"/>
+    <img src="https://images.credly.com/images/placeholder.png" width="130" alt="Data Usability for Organizations Badge"/>
   </a>
 </p>
 
@@ -43,12 +43,15 @@ I specialize in transforming complex spatial and non-spatial datasets into decis
 
 These credentials validate expertise in:
 
-* Data Classification & Governance  
-* Data Security & Information Management  
-* Data Usability & Analytical Foundations  
-* Data Management Principles  
+* Data Classification  
+* Data Usability for Organizations  
+* Data Governance & Management  
+* Data Security Fundamentals  
+* Information Management Principles  
 
-🔗 Verify Credentials:
+---
+
+🔗 **Verify Credentials:**
 - https://www.credly.com/badges/6b858995-c52b-4f05-92ae-e020c56a50ea/public_url  
 - https://www.credly.com/badges/21eeca31-0384-41f5-93f7-98e56f87dd77/public_url  
 
@@ -57,10 +60,10 @@ These credentials validate expertise in:
 ### 📌 Validated Skills
 
 * Data Classification  
+* Data Usability for Organizations  
 * Data Governance  
 * Information Management  
 * Data Security Fundamentals  
-* Data Usability Principles  
 
 ---
 
