@@ -1,60 +1,132 @@
----
+# 🌍 Senior GIS Analyst | Data Analyst | Geospatial Software Engineer
 
-# 🌍 Senior GIS Analyst | Geospatial Data Analyst | Geospatial Software Engineer
+Transforming spatial and business data into actionable insights, interactive dashboards, and intelligent geospatial systems.
 
 Hey there 👋
-I'm **Samson**, a **Senior GIS Analyst and Data Analyst** specializing in transforming **spatial + business data** into decision-ready insights, interactive maps, and scalable geospatial systems.
 
-I combine **GIS, data analytics, and software engineering** to build tools that support **urban planning, environmental intelligence, and data-driven decision-making**.
+I'm **Samson Adeyomoye**, a Senior GIS Analyst and Data Analyst with experience in geospatial intelligence, business analytics, remote sensing, and geospatial software development.
 
----
-
-## 🧭 What I Do (Senior-Level Focus)
-
-I work across **data, maps, and systems engineering**:
-
-* 🌐 Advanced GIS & Remote Sensing Analysis
-* 📊 Data Analysis & Business Intelligence Engineering
-* 🧠 Spatial + Non-Spatial Data Integration Systems
-* 🗺️ High-Performance Web Mapping Applications
-* 📈 Decision Support Dashboards (Data + GIS fusion)
-* ☁️ Cloud-Optimized Geospatial Pipelines (COGs, APIs, ETL workflows)
-* 🏗️ Geospatial Software Development & Automation
+I specialize in transforming complex spatial and non-spatial datasets into decision-ready solutions that support urban planning, environmental monitoring, infrastructure management, and business intelligence.
 
 ---
 
-## 📊 Data Analysis Expertise
+## 🏆 Certifications & Badges
 
-* 📉 Exploratory Data Analysis (EDA) for business & spatial datasets
-* 🧹 Data Cleaning, Transformation & Feature Engineering
-* 📊 Dashboard Development (Power BI, Excel, Python BI stacks)
-* 🧮 Statistical Analysis & Trend Modeling
-* 🗃️ Advanced SQL (joins, CTEs, window functions)
-* 🔁 ETL workflows (GIS + enterprise datasets)
-* 📈 KPI tracking & performance reporting systems
+### IBM Data Classification
 
----
+<a href="YOUR_CREDLY_BADGE_URL">
+    <img src="YOUR_BADGE_IMAGE_URL" width="180">
+</a>
 
-## 🛰️ GIS & Geospatial Expertise
+**Issued by IBM via Credly**
 
-* 🗺️ Spatial Analysis & Geoprocessing
-* 🌍 Satellite Image Processing (Sentinel, Landsat)
-* 🧭 Land Use / Land Cover (LULC) Classification
-* 🌡️ Environmental & Urban Analytics (heat islands, green equity)
-* 📍 Web GIS systems & interactive mapping solutions
-* ☁️ Raster + Vector data modeling
+Validated Skills:
+
+* Data Classification
+* Data Governance
+* Information Management
+* Data Security Fundamentals
 
 ---
 
-## 🛠️ Tech Stack
+## 🧭 What I Do
 
-### 🧠 Data & Analytics
+I work across the intersection of GIS, Data Analytics, and Software Engineering.
+
+### 🌍 GIS & Geospatial Intelligence
+
+* Spatial Analysis & Geoprocessing
+* Remote Sensing & Satellite Image Processing
+* Land Use/Land Cover (LULC) Classification
+* Environmental & Urban Analytics
+* Geospatial Data Modeling
+* Web GIS Development
+* Spatial Database Design
+
+### 📊 Data Analytics & Business Intelligence
+
+* Exploratory Data Analysis (EDA)
+* Data Cleaning & Transformation
+* Dashboard Development
+* KPI Monitoring & Reporting
+* Statistical Analysis
+* SQL-Based Analytics
+* Business Intelligence Solutions
+
+### 💻 Geospatial Software Engineering
+
+* GIS Automation
+* Geospatial APIs
+* Cloud Geospatial Workflows
+* ETL Pipeline Development
+* Web Mapping Applications
+* Spatial Data Integration Systems
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 Customer Churn Analysis Dashboard
+
+Power BI dashboard developed to identify customer churn patterns, retention opportunities, customer lifetime value, and business performance trends.
+
+### 🌡️ Urban Heat Island & Green Equity Analysis
+
+ESG-focused geospatial project analyzing heat vulnerability and access to green infrastructure using remote sensing and socioeconomic datasets.
+
+### 🛰️ Land Use / Land Cover Classification
+
+Satellite image classification workflow utilizing Sentinel imagery and GIS tools for environmental monitoring and land management.
+
+### 🗺️ Interactive Web GIS Dashboard
+
+Development of interactive mapping applications using modern web mapping technologies and spatial databases.
+
+### ⚡ Utility GIS & Infrastructure Mapping
+
+GIS solutions supporting infrastructure asset management, network visualization, and operational decision-making.
+
+---
+
+## 📊 Data Analytics Expertise
+
+* Data Cleaning & Preparation
+* Exploratory Data Analysis (EDA)
+* Statistical Analysis
+* Feature Engineering
+* Data Visualization
+* Dashboard Development
+* Business Reporting
+* SQL Query Optimization
+* ETL Workflow Design
+* KPI Development & Monitoring
+
+---
+
+## 🛰️ GIS & Remote Sensing Expertise
+
+* Spatial Analysis
+* Geoprocessing
+* Cartography
+* Raster Analysis
+* Vector Analysis
+* Land Cover Mapping
+* Change Detection
+* Remote Sensing
+* Satellite Image Classification
+* Spatial Database Management
+
+---
+
+## 🛠️ Technical Stack
+
+### 📊 Data & Analytics
 
 `Python` · `Pandas` · `NumPy` · `SQL` · `Power BI` · `Excel` · `Matplotlib`
 
-### 🌍 GIS Tools
+### 🌍 GIS & Remote Sensing
 
-`QGIS` · `ArcGIS` · `GDAL` · `SNAP` · `PostGIS`
+`ArcGIS` · `QGIS` · `PostGIS` · `GDAL` · `SNAP`
 
 ### 💻 Development
 
@@ -62,25 +134,15 @@ I work across **data, maps, and systems engineering**:
 
 ### 🗺️ Web Mapping
 
-`Leaflet` · `CesiumJS` · `OpenLayers` · `OpenStreetMap`
+`Leaflet` · `OpenLayers` · `CesiumJS` · `OpenStreetMap`
 
-### ☁️ Backend / Infra
+### ☁️ Infrastructure & Backend
 
 `PostgreSQL` · `GeoServer` · `Git` · `REST APIs`
 
 ---
 
-## 🚀 Featured Focus Areas (What I’m Known For)
-
-* 🌡️ Urban Heat Island Mapping & Climate Analysis
-* 🌳 Green Space Accessibility & Urban Inequality Studies
-* 🛰️ Satellite Image Classification & Land Cover Mapping
-* 📊 GIS + Business Intelligence Integration Systems
-* 🗺️ Interactive Web GIS Dashboards
-
----
-
-## 📈 GitHub Stats (Live)
+## 📈 GitHub Statistics
 
 <p align="center">
 
@@ -95,35 +157,6 @@ I work across **data, maps, and systems engineering**:
 <img src="https://streak-stats.demolab.com?user=PFG-Samson&theme=tokyonight&hide_border=true" />
 
 </p>
-
----
-
-## ⚽ Beyond Work
-
-When I’m not building geospatial systems or analyzing data, you’ll find me:
-
-🎵 Exploring music
-⚽ Watching football
-🧠 Thinking about systems, maps, and automation
-💡 Building ideas that connect data to real-world decisions
-
----
-
-## 🤝 Let’s Connect
-
-I’m always open to opportunities in **Data Analytics, GIS Engineering, and Geospatial Intelligence roles**.
-
-📫 **Reach out:**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samson%20Adeyomoye-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/samson-pfg)
-
-[![Twitter](https://img.shields.io/badge/Twitter-@PFG__Samson-1DA1F2?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/PFG_Samson)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-samson--adeyomoye.vercel.app-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://samson-adeyomoye.vercel.app/)
-
----
-
-> *“Everything is somewhere — and data is how we understand it at scale.”* 🌍
 
 ---
 
@@ -144,3 +177,43 @@ I’m always open to opportunities in **Data Analytics, GIS Engineering, and Geo
 </div>
 
 ---
+
+## ⚽ Beyond Work
+
+When I'm not analyzing data or building geospatial systems, you'll find me:
+
+🎵 Exploring music
+
+⚽ Watching football
+
+📚 Learning new technologies
+
+🧠 Thinking about automation, systems, and problem-solving
+
+💡 Building solutions that connect data to real-world decisions
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to opportunities in:
+
+* GIS Analysis
+* Data Analytics
+* Business Intelligence
+* Geospatial Intelligence
+* GIS Engineering
+* Remote Sensing
+* Spatial Data Science
+
+📫 Reach Out:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samson%20Adeyomoye-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/samson-pfg)
+
+[![Twitter](https://img.shields.io/badge/Twitter-@PFG__Samson-1DA1F2?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/PFG_Samson)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-samson--adeyomoye.vercel.app-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://samson-adeyomoye.vercel.app/)
+
+---
+
+> *"Everything is somewhere — and data is how we understand it at scale."* 🌍
