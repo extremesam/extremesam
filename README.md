@@ -9,6 +9,20 @@ I'm **Samson Adeyomoye**, a Senior GIS Analyst and Data Analyst with experience 
 I specialize in transforming complex spatial and non-spatial datasets into decision-ready solutions that support urban planning, environmental monitoring, infrastructure management, and business intelligence.
 
 ---
+## 🎯 Professional Highlights
+
+✅ Senior GIS Analyst
+
+✅ Data Analytics & Business Intelligence Professional
+
+✅ GIS & Remote Sensing Specialist
+
+✅ Web GIS Developer
+
+✅ Power BI Dashboard Developer
+
+✅ Spatial Database & Geospatial Systems Engineer
+---
 
 ## 🏆 Certifications & Badges
 
