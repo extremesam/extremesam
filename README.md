@@ -35,6 +35,10 @@ I specialize in transforming complex spatial and non-spatial datasets into decis
   <a href="https://www.credly.com/badges/21eeca31-0384-41f5-93f7-98e56f87dd77/public_url">
     <img src="https://images.credly.com/images/placeholder.png" width="130" alt="Data Usability for Organizations Badge"/>
   </a>
+
+  <a href="https://www.credly.com/badges/e1f3513d-65f9-4461-8e6b-273a7a89d22f/public_url">
+    <img src="https://www.credly.com/badges/e1f3513d-65f9-4461-8e6b-273a7a89d22f/public_url" alt="Introduction to Inferential and Descriptive Statistics"/>
+  </a>
 </p>
 
 ### IBM Certifications
@@ -53,7 +57,8 @@ These credentials validate expertise in:
 
 🔗 **Verify Credentials:**
 - https://www.credly.com/badges/6b858995-c52b-4f05-92ae-e020c56a50ea/public_url  
-- https://www.credly.com/badges/21eeca31-0384-41f5-93f7-98e56f87dd77/public_url  
+- https://www.credly.com/badges/21eeca31-0384-41f5-93f7-98e56f87dd77/public_url
+- https://www.credly.com/badges/e1f3513d-65f9-4461-8e6b-273a7a89d22f/public_url
 
 ---
 
