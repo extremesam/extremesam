@@ -52,7 +52,7 @@ These credentials validate expertise in:
 * Data Governance & Management  
 * Data Security Fundamentals  
 * Information Management Principles  
-
+[![IBM SkillsBuild Data Analytics Certificate](https://img.shields.io/badge/IBM-Data%20Analytics%20Certificate-052FAD?style=for-the-badge&logo=IBM&logoColor=white)](https://www.credly.com/badges/1f33fa8d-45cc-44e1-869e-efcf7324197c)
 ---
 
 🔗 **Verify Credentials:**
